@@ -1,0 +1,3 @@
+- POC for JavaFx use
+- This is a simple login form with 2 text fields, 1 login button and 1 back button 
+- Install JavaFx following the tutorial [here](https://openjfx.io/openjfx-docs/#install-javafx).
